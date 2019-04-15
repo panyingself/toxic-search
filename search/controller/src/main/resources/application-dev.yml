@@ -1,0 +1,13 @@
+#app
+server:
+    port: 8082
+
+#spring
+spring:
+  data:
+    elasticsearch:
+      cluster-nodes: 47.98.143.61:9300
+      cluster-name: pyes
+
+
+

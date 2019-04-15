@@ -1,0 +1,11 @@
+search/.idea/libraries
+search/service/target
+search/controller/target/maven-status/maven-compiler-plugin/compile/default-compile
+search/.idea
+search/controller/target/classes
+search/controller/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile
+search/controller/target
+search/biz/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile
+search/biz/target/maven-status/maven-compiler-plugin/compile
+search/biz/target/maven-archiver
+search/biz/target/classes
